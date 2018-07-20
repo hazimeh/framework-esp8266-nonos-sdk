@@ -1,7 +1,7 @@
 {
   "framework-esp8266-nonos-sdk": [
     {
-      "sha1": "8c50210c92a1fcf9b22648d9c1c34f23541c9cb7",
+      "sha1": "4d2dbb19902987281d7ac2af28067e3ecef36aee",
       "system": "*",
       "url": "https://github.com/hazimeh/framework-esp8266-nonos-sdk/raw/master/ESP8266_NONOS_SDK-2.2.0.tar.gz",
       "version": "2.2.0"
